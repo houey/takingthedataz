@@ -4,3 +4,4 @@ fork and stripped down versioon of a now defunct DomainWatch script from ebeltie
 ```
 ./dwatch scan domain_list.txt
 ```
+takes the dataz...   ohh yeah like the kool aid man
